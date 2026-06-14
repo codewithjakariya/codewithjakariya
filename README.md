@@ -1,6 +1,6 @@
-<!-- HEADER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00EFFF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+at+DevNexus+N;Frontend+Web+Developer;AI+%26+Automation+Engineer;CSE+Student;Building+Scalable+Real+World+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00EFFF&center=true&vCenter=true&width=950&lines=Founder+%26+CEO+at+DevNexus+N;Frontend+Web+Developer;AI+%26+Automation+Engineer;CSE+Student;Building+Real+World+Digital+Products" />
 </p>
 
 <h1 align="center">Md. Jakariya Hossain</h1>
@@ -8,23 +8,23 @@
 <h3 align="center">Founder & CEO at DevNexus N | Frontend Developer | AI & Automation Engineer | CSE Student</h3>
 
 <p align="center">
-Focused on building scalable web applications, AI-powered tools, and automation systems for real-world use.
+I build scalable web applications, AI-powered tools, and automation systems that solve real-world problems.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Frontend Developer and AI Automation Engineer** focused on building practical, production-ready digital products.
+I am a **Frontend Developer, AI & Automation Engineer, and Founder** focused on building production-ready digital products.
 
-Through **DevNexus N**, I design and develop web applications and automation systems that improve efficiency and solve real problems.
+Through **DevNexus N**, I work on web applications and automation systems designed for real-world impact.
 
 - 👨‍💻 Frontend Web Developer  
 - 🚀 Founder & CEO of **DevNexus N**  
 - 🤖 AI & Automation Engineer  
 - 🎓 Computer Science & Engineering Student  
-- 💡 Interested in SaaS, systems design, and product engineering  
-- 🎯 Focused on real-world scalable applications  
+- 💡 Interested in SaaS, system design, and scalable architecture  
+- 🎯 Focused on real production-level applications  
 
 ---
 
@@ -36,13 +36,13 @@ Through **DevNexus N**, I design and develop web applications and automation sys
 
 ---
 
-## 🤖 AI & Automation
+## 🤖 AI & Automation Skills
 
-- AI-assisted development workflow (Vibe Coding)  
-- API integration & automation systems  
-- Task automation using modern web tools  
-- Building AI-powered features in web apps  
-- Productivity-focused system design  
+- AI-assisted development (Vibe Coding workflow)  
+- Workflow automation systems  
+- API integration & backend automation  
+- AI-powered web features  
+- Productivity optimization systems  
 
 ---
 
@@ -66,7 +66,7 @@ Through **DevNexus N**, I design and develop web applications and automation sys
 
 ---
 
-## 🏢 Company
+## 🏢 Startup
 
 🚀 **DevNexus N**  
 🌐 https://devnexusn.vercel.app/
@@ -82,22 +82,21 @@ Through **DevNexus N**, I design and develop web applications and automation sys
 
 ---
 
-## 💼 Open To Work
+## 💼 Availability
 
-✔ Freelance Projects  
-✔ AI & Automation Projects  
-✔ Startup Collaborations  
-✔ Remote Developer Roles  
-✔ Internship Opportunities  
+✔ Open for Freelance Projects  
+✔ Open for AI & Automation Projects  
+✔ Open for Startup Collaborations  
+✔ Open for Remote Developer Roles  
 
 ---
 
-## 💭 Mindset
+## 💭 Philosophy
 
-> "Build useful systems. Automate what slows you down. Focus on real impact."
+> "Build systems that create impact, not just code that runs."
 
 ---
 
 <p align="center">
-⭐ Build • 🤖 Automate • 🚀 Ship • 💡 Improve
+⭐ Build • 🤖 Automate • 🚀 Ship • 💡 Scale • 🔥 Improve
 </p>
