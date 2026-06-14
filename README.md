@@ -8,19 +8,23 @@
 <h3 align="center">Founder & CEO at DevNexus N | Frontend Developer | AI & Automation Engineer | CSE Student</h3>
 
 <p align="center">
-Focused on building scalable web applications, AI tools, and automation systems for real-world impact.
+Focused on building scalable web applications, AI tools, and automation systems that solve real-world problems.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+I am a **Frontend Developer, AI & Automation Engineer, and Entrepreneur** building real production-level digital products.
+
+Through **DevNexus N**, I design and develop web applications, AI tools, and automation workflows that improve efficiency and user experience.
+
 - 👨‍💻 Frontend Web Developer  
 - 🚀 Founder & CEO of **DevNexus N**  
 - 🤖 AI & Automation Engineer  
 - 🎓 Computer Science & Engineering Student  
 - 💡 Passionate about SaaS, startups, and scalable systems  
-- 🎯 Focused on production-level applications  
+- 🎯 Focused on real-world production-ready applications  
 
 ---
 
@@ -69,30 +73,12 @@ Focused on building scalable web applications, AI tools, and automation systems 
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
-<p>
-
-<a href="https://jakariyahossain.vercel.app/" target="_blank">
-🌐 Portfolio
-</a>
-<br/>
-
-<a href="https://www.linkedin.com/in/md-jakariya-hossain-jibon-125287384/" target="_blank">
-💼 LinkedIn
-</a>
-<br/>
-
-<a href="https://x.com/jibon_md688" target="_blank">
-🐦 Twitter (X)
-</a>
-<br/>
-
-<a href="https://devnexusn.vercel.app/" target="_blank">
-🏢 DevNexus N
-</a>
-
-</p>
+- 🌐 [Portfolio](https://jakariyahossain.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-jakariya-hossain-jibon-125287384/)
+- 🐦 [Twitter (X)](https://x.com/jibon_md688)
+- 🏢 [DevNexus N](https://devnexusn.vercel.app/)
 
 ---
 
